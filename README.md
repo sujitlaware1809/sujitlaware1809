@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suijtlaware1809&label=Profile%20views&color=0e75b6&style=flat" alt="suijtlaware1809" /> </p>
 
-- 🔭 I am currently pursuing a Bachelor of Science in Data Science at **IIT Madras** while also enrolled in a Bachelor of Technology program at **SRM University**
+- 🔭 I am currently pursuing a B.S. in Data Science at **IIT Madras** while also enrolled in a B.Tech at **SRM University**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 

@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my portfolio are available at [https://www.linkedin.com/in/sujit-laware/](https://www.linkedin.com/in/sujit-laware/)
 
-- 📝 I regularly write articles on ([https://quickbytes.tech/](https://t.ly/CJepY))
+- 📝 I regularly write articles on ([The Thynk Newsletter/](https://t.ly/CJepY))
 
 - 💬 Ask me about **Python ,Machine Learning**
 

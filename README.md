@@ -24,7 +24,7 @@ I'm an AI Intern specializing in end-to-end AI solution development using Amazon
 |:--:|:---|
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20"> | Large Language Models & Generative AI |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Scroll.png" width="20"> | AI-Powered Automation & Workflow Optimization |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Scroll.png" width="20"> | Cloud-Based AI Solution Deployment (AWS ,GCP & Azure) |
+| <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Flexed%20Biceps%20Light%20Skin%20Tone.png" width="20"> | Cloud-Based AI Solution Deployment (AWS ,GCP & Azure) |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"> | End-to-End AI System Design and Integration |
 
 Currently working at **Runverve**, focusing on large-scale AI implementations and innovations.

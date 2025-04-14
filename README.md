@@ -55,11 +55,11 @@ mindmap
 
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![GCP](https://img.shields.io/badge/Google_Cloud-Specialist-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![AWS](https://img.shields.io/badge/Google_Cloud-Specialist-4285F4?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-Proficient-0089D6?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com/)
 
 ### Development Tools & Frameworks
-[![FastAPI](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![FastAPI & Flask](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 

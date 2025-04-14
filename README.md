@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Cloud-Solutions-orange?style=for-the-badge" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" height="25"> About Me
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png" width="25" height="25"> About Me
 
 <div align="center">
   <blockquote>

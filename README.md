@@ -1,4 +1,4 @@
-#<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"><h1 align="center">Hi 👋, I'm Sujit Laware</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"><h1 align="center">Hi 👋, I'm Sujit Laware</h1>
 
 <div align="center">
   <h3>💡 AI Developer | Multi-Cloud Certified | AI Intern @ Runverve 💡</h3>

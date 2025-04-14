@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"><h1 align="center">Hi 👋, I'm Sujit Laware</h1>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"> Yash Kavaiya
 
 <div align="center">
   <h3>💡 AI Developer | Multi-Cloud Certified | AI Intern @ Runverve 💡</h3>
@@ -20,14 +20,14 @@
 
 I'm an AI Intern specializing in end-to-end AI solution development using Amazon Web Services. My expertise spans:
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"> | Machine Learning & Deep Learning |
+| <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Robot.png" width="20"> | Machine Learning & Deep Learning |
 |:--:|:---|
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20"> | Large Language Models & Generative AI |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Counterclockwise%20Arrows%20Button.png" width="20"> | AI-Powered Automation & Workflow Optimization |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="20"> | Cloud-Based AI Solution Deployment (AWS ,GCP & Azure) |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Scroll.png" width="20"> | AI-Powered Automation & Workflow Optimization |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Scroll.png" width="20"> | Cloud-Based AI Solution Deployment (AWS ,GCP & Azure) |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"> | End-to-End AI System Design and Integration |
 
-Currently working at **Runverve**, ffocusing on large-scale AI implementations and innovations.
+Currently working at **Runverve**, focusing on large-scale AI implementations and innovations.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25"> Tech Stack
 
@@ -136,16 +136,3 @@ mindmap
 <p align="center">
   <i>"Building AI solutions that bridge technology and business value"</i>
 </p>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujit.undefined) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-laware) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sujitlaware) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sujitlaware) 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://dev.to/sujit_laware1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sujit_laware1" height="30" width="40" /></a>
-<a href="https://twitter.com/sujitlaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujitlaware" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sujit-laware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit-laware" height="30" width="40" /></a>
-<a href="https://instagram.com/sujit_laware1809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujit_laware1809" height="30" width="40" /></a>
-<a href="https://medium.com/@sujitlaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sujitlaware" height="30" width="40" /></a>
-</p>
-

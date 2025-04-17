@@ -64,6 +64,6 @@ mindmap
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 
 ### GitHub Stats
-<div align="center"> <a href="https://github.com/sujitlaware1809"> <img src="https://github-readme-stats.vercel.app/api?username=sujitlaware1809&theme=default&show_icons=true&hide_border=false&count_private=true" width="44%" /> </a> <a href="https://github.com/sujitlaware1809"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitlaware1809&theme=default&hide_border=false" width="48%" /> </a> <br/> <a href="https://github.com/sujitlaware1809"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitlaware1809&theme=default&show_icons=true&hide_border=false&layout=compact" width="40%" /> </a> </div>
+<div align="center"> <a href="https://github.com/sujitlaware1809"> <img src="https://github-readme-stats.vercel.app/api?username=sujitlaware1809&theme=default&show_icons=true&hide_border=false&count_private=true" width="45%" /> </a> <a href="https://github.com/sujitlaware1809"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujitlaware1809&theme=default&hide_border=false" width="48%" /> </a> <br/> <a href="https://github.com/sujitlaware1809"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitlaware1809&theme=default&show_icons=true&hide_border=false&layout=compact" width="38%" /> </a> </div>
 
 

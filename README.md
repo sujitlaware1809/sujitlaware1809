@@ -63,4 +63,8 @@ mindmap
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 
+![sujitlaware1809's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujitlaware1809&theme=default&show_icons=true&hide_border=false&layout=compact)
+![sujitlaware1809's Stats](https://github-readme-stats.vercel.app/api?username=sujitlaware1809&theme=default&show_icons=true&hide_border=false&count_private=true)
+![sujitlaware1809's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujitlaware1809&theme=default&hide_border=false)
+
 

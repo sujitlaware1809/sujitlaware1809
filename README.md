@@ -1,7 +1,7 @@
 # Hi,I'm Sujit Laware <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="40" height="40"> 
 
 <div align="center">
-  <h3>💡 IIT Madras'27 | AI Developer | Multi-Cloud Certified | AI Intern @ Runverve 💡</h3>
+  <h3>💡 IIT Madras'27 | AI Developer | Multi-Cloud Certified | AI Intern @ Runverve | Captain @ AWS Cloud Club IIT Madras 💡</h3>
 </div>
 
 <div align="center">

@@ -2,7 +2,7 @@
 
 i build. ship. scale fast.  
 into ai, ml/dl, systems, and engineering .
-ug student & research @ **iit madras**.  
+ug student & research @ **iit madras** & @**srm university**.  
 captain @ **aws cloud club iitm**.  
 still learning, still shipping.
 

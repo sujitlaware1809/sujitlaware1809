@@ -27,7 +27,7 @@ still learning, still shipping.
 ---
 
 personal site — [sujit.codes](https://sujit.codes)  
-resume — [view pdf](https://sujitlaware.pages.dev/resume.pdf)
+resume — [view pdf](https://www.sujit.codes/resume.pdf)
 
 ### what i work with:
 - ai / ml / llm systems
